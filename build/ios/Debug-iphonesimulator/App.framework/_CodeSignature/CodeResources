@@ -10,19 +10,71 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		PpE5+z++mHR8KSGJWEZ5fUSZBMc=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		TLb3VmUIVCwys1YQLs0c6eV0+l0=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
 		fO035DcYS5a1PP61xV6eT62dbWM=
 		</data>
+		<key>flutter_assets/assets/IMG_1827.png</key>
+		<data>
+		h2l2sjD+rtGhwExzK+8nfrXJ5Xk=
+		</data>
+		<key>flutter_assets/assets/Untitled-2.png</key>
+		<data>
+		b80KjV8GU+Oiqoj5tPOw6z4aMkE=
+		</data>
+		<key>flutter_assets/fonts/DarkerGrotesque-Black.ttf</key>
+		<data>
+		geh2cMADI3QqPT5apTLoR12Nlmg=
+		</data>
+		<key>flutter_assets/fonts/DarkerGrotesque-Bold.ttf</key>
+		<data>
+		hBuGdXWzZXIuHytJN9m1pyYsfRg=
+		</data>
+		<key>flutter_assets/fonts/DarkerGrotesque-ExtraBold.ttf</key>
+		<data>
+		MvIi+K7ESA7yOev8mAWt4rZJjp8=
+		</data>
+		<key>flutter_assets/fonts/DarkerGrotesque-Light.ttf</key>
+		<data>
+		H3hTze9eVFbqbqRhG2zv5W2OmXk=
+		</data>
+		<key>flutter_assets/fonts/DarkerGrotesque-Medium.ttf</key>
+		<data>
+		ch3vHt82ENZpmKLLYQ296J77wNg=
+		</data>
+		<key>flutter_assets/fonts/DarkerGrotesque-Regular.ttf</key>
+		<data>
+		DEEMhAdqGCTkIocB2n6bm597SQE=
+		</data>
+		<key>flutter_assets/fonts/DarkerGrotesque-SemiBold.ttf</key>
+		<data>
+		NBwT16dpx6gvPNRWUQ+bzCRnx6U=
+		</data>
+		<key>flutter_assets/fonts/DaysOne-Regular.ttf</key>
+		<data>
+		Ua1PiV2IF3Zi2lpcQdOpm8iXqpA=
+		</data>
+		<key>flutter_assets/fonts/Manjari-Bold.ttf</key>
+		<data>
+		oJdM0Y31/7CyfFjPo9A2Kys/Qyg=
+		</data>
+		<key>flutter_assets/fonts/Manjari-Regular.ttf</key>
+		<data>
+		P8l7034tzwgy/7oYquo8QOb6phA=
+		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
 		33xe6rFwPlxRnZOgZWsODADpUI4=
+		</data>
+		<key>flutter_assets/fonts/ShipporiAntique-Regular.ttf</key>
+		<data>
+		aDqWPwEu8km9XpXCEswxmPhBIr4=
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
@@ -30,7 +82,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		oDHJIegwHWQ3aoFcGGJFVI9wYfM=
+		U7rTJ+JQSLcNgHIGUSEwKviH8fc=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -47,22 +99,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+			PpE5+z++mHR8KSGJWEZ5fUSZBMc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			J+qG+y+dWqPXc+KVjv4RldHa2rfR5fjWLTWJRSn7x90=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vKJkVIcw+LGHFnKJGwrQwCREv68=
+			TLb3VmUIVCwys1YQLs0c6eV0+l0=
 			</data>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			gCctzO5/SI+g8GUcA+dH3LaW3yfO6iu7Kufk5t+09Ys=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
@@ -76,6 +128,138 @@
 			udjL0IdCf1ewd+o7mLdBBx6x1sAUKXafHUFgUB2iCDw=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/IMG_1827.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h2l2sjD+rtGhwExzK+8nfrXJ5Xk=
+			</data>
+			<key>hash2</key>
+			<data>
+			cPODqvocYZkP5K225L8Oq3bHXypK4jBK9CmAIxRGHyw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/Untitled-2.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b80KjV8GU+Oiqoj5tPOw6z4aMkE=
+			</data>
+			<key>hash2</key>
+			<data>
+			0/7wWgHMOFDxErCt3XwDohrkdTGplRdv2dROOoeQUbs=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/DarkerGrotesque-Black.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			geh2cMADI3QqPT5apTLoR12Nlmg=
+			</data>
+			<key>hash2</key>
+			<data>
+			klhOK7ZTnjWEMYFc4+lH1fZSbinKn+FBOuf4SUEgg6w=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/DarkerGrotesque-Bold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hBuGdXWzZXIuHytJN9m1pyYsfRg=
+			</data>
+			<key>hash2</key>
+			<data>
+			YWglg9mhmVn2Ctoh+lSXNwWXxN9ATnh1H2r7y6AkZj4=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/DarkerGrotesque-ExtraBold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MvIi+K7ESA7yOev8mAWt4rZJjp8=
+			</data>
+			<key>hash2</key>
+			<data>
+			NXwO7OxpuWmZKzvTTnxGc0kuLpYkIWZTYoY4awGrm4I=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/DarkerGrotesque-Light.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H3hTze9eVFbqbqRhG2zv5W2OmXk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Iq/211wlsuIOAWZxfceEozCnmTvwqmzjXxqb8LQE/Qw=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/DarkerGrotesque-Medium.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ch3vHt82ENZpmKLLYQ296J77wNg=
+			</data>
+			<key>hash2</key>
+			<data>
+			is3qatHVqPmEFdCVi88yxbsruILtaTxd6W8xgYOceG0=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/DarkerGrotesque-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DEEMhAdqGCTkIocB2n6bm597SQE=
+			</data>
+			<key>hash2</key>
+			<data>
+			SHXMhajilTb8T4SLk12oIW5v6abAxJmF1Nko6DVzsLU=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/DarkerGrotesque-SemiBold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NBwT16dpx6gvPNRWUQ+bzCRnx6U=
+			</data>
+			<key>hash2</key>
+			<data>
+			KLyczc6B+Z98UpgAwIsS96IXE93gF7a6281k3b4hQIU=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/DaysOne-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ua1PiV2IF3Zi2lpcQdOpm8iXqpA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Do8T4sZMvHO0cee1azQE9bv+iaxWGLJXJBt0wOUvPZk=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/Manjari-Bold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oJdM0Y31/7CyfFjPo9A2Kys/Qyg=
+			</data>
+			<key>hash2</key>
+			<data>
+			gCF4wttPANuEbxuSf+WPv8iWFhmLs/HTPoiOBhq6j34=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/Manjari-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P8l7034tzwgy/7oYquo8QOb6phA=
+			</data>
+			<key>hash2</key>
+			<data>
+			IYWpn6rYuSQfU3/Ma8ZfdCFO5ajkAwrk0j9XdY+fyaQ=
+			</data>
+		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash</key>
@@ -85,6 +269,17 @@
 			<key>hash2</key>
 			<data>
 			0E0I/gLatnGI9y4elyWPSg2LWYJSPgLt6hMvgJD5+rQ=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/ShipporiAntique-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aDqWPwEu8km9XpXCEswxmPhBIr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			C3ejG0oiWwjQSFk2PA9xFdmvsDdLmm27nuPGD0kfQnc=
 			</data>
 		</dict>
 		<key>flutter_assets/isolate_snapshot_data</key>
@@ -102,11 +297,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oDHJIegwHWQ3aoFcGGJFVI9wYfM=
+			U7rTJ+JQSLcNgHIGUSEwKviH8fc=
 			</data>
 			<key>hash2</key>
 			<data>
-			N3MGfZIwHlGJtH9WixsZ/kDOeKhewRbQ12VpJ53pL/I=
+			F9r9Yz0HaOMg7WDSXA+mLsymXUwvPKSQpsH2qc13pus=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

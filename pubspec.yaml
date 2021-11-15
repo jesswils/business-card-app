@@ -96,7 +96,7 @@ flutter:
         weight: 700
     - family: Shippori Antique 
       fonts: 
-      - assset: fonts/ShipporiAntique-Regular.ttf
+      - asset: fonts/ShipporiAntique-Regular.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
